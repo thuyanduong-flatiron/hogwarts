@@ -23,7 +23,7 @@
 
 ## What we have so far:
 
-* A file containing all our hog data imported into App.js, stored in a variable called `hogs`
+* A _statid_ file containing all our hog data imported into App.js, stored in a variable called `hogs`(no fetching needed)
 * A `/src/hog-imgs/` folder of hog images (it is up to you to figure out how to import relative images into a React app)
 * A functional nav component rendered at the top of our in our App
 
