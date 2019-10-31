@@ -23,9 +23,9 @@
 
 ## What we have so far:
 
-* a file containing all our hog data imported into App.js
-* a folder of hog images
-* a functional nav component rendered in our App.js
+* A file containing all our hog data imported into App.js, stored in a variable called `hogs`
+* A `/src/hog-imgs/` folder of hog images (it is up to you to figure out how to import relative images into a React app)
+* A functional nav component rendered at the top of our in our App
 
 ## Trying to figure out where to start?
 
